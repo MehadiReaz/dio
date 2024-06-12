@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "181032267041",
+    "firebase_url": "https://smart-hrm-321e0.firebaseio.com",
+    "project_id": "smart-hrm-321e0",
+    "storage_bucket": "smart-hrm-321e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181032267041:android:95938904feb76e1bc3a260",
+        "android_client_info": {
+          "package_name": "com.hrmsoftwarebd.smarthrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181032267041-vsdga9kngknjeo500ik8u6do66nqplae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8wo_papnoi_BTcJvKJqJyzeeg9bJoFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181032267041-vsdga9kngknjeo500ik8u6do66nqplae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181032267041-h58qc5tnga3g50k5opd6brm2oo4e7tpr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartsoftwarebd.hrm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181032267041:android:fe45c8d64bfe4377c3a260",
+        "android_client_info": {
+          "package_name": "com.smartsoftware.hrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181032267041-5epbveunha5fmv5kg8dpbs27uptlmp87.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartsoftware.hrm",
+            "certificate_hash": "a10a2abcb8499b590b0b61f0642e66854ac5b887"
+          }
+        },
+        {
+          "client_id": "181032267041-693qjprjn0rtq7jg7e8fns26uf9053h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartsoftware.hrm",
+            "certificate_hash": "a3f28aead7c456a05fde1f7212ba868da8da7e26"
+          }
+        },
+        {
+          "client_id": "181032267041-es6s0250iphjij5t69qpv4dsvbve5k28.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartsoftware.hrm",
+            "certificate_hash": "121cbb3668c31f475750848f56344b7d56c05944"
+          }
+        },
+        {
+          "client_id": "181032267041-vsdga9kngknjeo500ik8u6do66nqplae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8wo_papnoi_BTcJvKJqJyzeeg9bJoFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181032267041-vsdga9kngknjeo500ik8u6do66nqplae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181032267041-h58qc5tnga3g50k5opd6brm2oo4e7tpr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartsoftwarebd.hrm"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181032267041:android:4a9880d0c5093d74c3a260",
+        "android_client_info": {
+          "package_name": "com.smartsoftwarebd.hrm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181032267041-vsdga9kngknjeo500ik8u6do66nqplae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP8wo_papnoi_BTcJvKJqJyzeeg9bJoFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181032267041-vsdga9kngknjeo500ik8u6do66nqplae.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181032267041-h58qc5tnga3g50k5opd6brm2oo4e7tpr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.smartsoftwarebd.hrm"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
